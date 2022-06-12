@@ -1,9 +1,9 @@
 # MapParsers
 ### Make sure you are in the root folder of the project<br>
  Install the package installer PIP for Python.
----
+***
 ### https://pip.pypa.io/en/stable/installation/
----
+
 Use the requirements.txt file to install dependencies.
 ---
 pip install -r requirements.txt
