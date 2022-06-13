@@ -24,7 +24,7 @@ python zikoParser.py
 
 #### To run the Monomax site parser in command line, use the "monomaxParser.py" file. Data file will be stored in data_file_monomax.json
 ~~~ 
-python zikoParser.py
+python monomaxParser.py
 ~~~
 ##### In Monomax, due to js parsing, the code came out very unreliable. Sorry it's so late, I just saw your post in the mail last night.
 
